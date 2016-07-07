@@ -1,7 +1,7 @@
 
-* {
+/** {
 	box-sizing: border-box;
-}
+}*/
 
 body {
 	color: gray;
@@ -44,7 +44,6 @@ h1 {
 h2 {
 	font-size: 1.8em;
 	color: black;
-	text-align: center;
 }
 
 h3 {
